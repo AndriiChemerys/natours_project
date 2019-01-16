@@ -4,7 +4,7 @@ body {
     // font-size: 1rem;
     line-height: 1.7;
     color: $color-grey-dark;
-    padding: 3rem; 
+    padding: 3rem;
     box-sizing: border-box;
 }
 
@@ -15,25 +15,26 @@ body {
     /* cancel animation shaking */
     backface-visibility: hidden;
     margin-bottom: 6rem;
-}
 
-&--main {
-    display: block;
-    font-size: 6rem;
-    font-weight: 400;
-    letter-spacing: 3.5rem;
 
-    animation-name: moveInLeft;
-    animation-duration: 1s;
-    animation-timing-function: ease-out;
-}
+    &--main {
+        display: block;
+        font-size: 6rem;
+        font-weight: 400;
+        letter-spacing: 3.5rem;
 
-&--sub {
-    display: block;
-    font-size: 2rem;
-    font-weight: 700;
-    letter-spacing: 1.5rem;
+        animation-name: moveInLeft;
+        animation-duration: 1s;
+        animation-timing-function: ease-out;
+    }
 
-    animation: moveInRight 1s ease-out;
+    &--sub {
+        display: block;
+        font-size: 2rem;
+        font-weight: 700;
+        letter-spacing: 1.5rem;
 
+        animation: moveInRight 1s ease-out;
+
+    }
 }
