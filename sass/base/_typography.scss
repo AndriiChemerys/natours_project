@@ -35,7 +35,6 @@ body {
         letter-spacing: 1.5rem;
 
         animation: moveInRight 1s ease-out;
-
     }
 }
 
@@ -52,6 +51,5 @@ body {
     &:hover {
         transform: skewY(20deg) skewX(15deg) scale(1.1);
         text-shadow: .5rem 1rem 2rem rgba($color-black, .2)
-
     }
 }
