@@ -15,7 +15,7 @@ https://andriichemerys.github.io/natours_project/
 
 > Header screenshot
 
-![screenshot of the project header](https://natours_project/img/img_final_scrn/img-1.jpg)    <br/><br/>
+![screenshot of the project header](https://github.com/AndriiChemerys/natours_project/blob/master/img/img_final_scrn/img-1.jpg)    <br/><br/>
 
 **2.** Building a Custom Grid with Floats. :heavy_check_mark:   
 **3.** Building the About Section. :heavy_check_mark:   
