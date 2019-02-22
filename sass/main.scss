@@ -1,12 +1,3 @@
-/*
-COLORS:
-
-Light green: #7ed56f
-Medium green: #55c57a
-Dark green: #28b485
-
-*/
-
 @import "abstracts/functions";
 @import "abstracts/mixins";
 @import "abstracts/variables";
@@ -25,11 +16,10 @@ Dark green: #28b485
 @import "components/popup";
 @import "components/story";
 
+@import "layout/footer";
 @import "layout/grid";
 @import "layout/header";
-@import "layout/footer";
 @import "layout/navigation";
 
 @import "pages/home";
-
 

@@ -28,9 +28,7 @@
         z-index: 1000;
         transition: transform .8s cubic-bezier(0.86, 0, 0.07, 1);
 
-
-
-        // transform: scale(50);
+        //transform: scale(80);
     }
 
     &__nav {
@@ -87,8 +85,8 @@
         }
     }
 
-    //FUNCTIONALITY
 
+    //FUNCTIONALITY
     &__checkbox:checked ~ &__background {
         transform: scale(80);
     }
@@ -98,11 +96,11 @@
         width: 100%;
     }
 
-    //ICON
 
+    //ICON
     &__icon {
         position: relative;
-        margin-top: 3.4rem;
+        margin-top: 3.5rem;
 
         &,
         &::before,
@@ -121,8 +119,8 @@
             transition: all .2s;
         }
 
-        &::before {top:-1rem;}
-        &::after {top: 1rem;}
+        &::before { top: -.8rem; }
+        &::after { top: .8rem; }
     }
 
     &__button:hover &__icon::before {
