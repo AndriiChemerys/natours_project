@@ -10,6 +10,10 @@
     visibility: hidden;
     transition: all .3s;
 
+    @include respond(tab-port) {
+        
+    }
+
     &__content {
         @include absCenter;
 
