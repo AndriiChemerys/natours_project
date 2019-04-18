@@ -2,9 +2,6 @@
 ## Natours project. Created while passing "Advanced CSS and Sass: Flexbox, Grid, Animations and More" course.
 
 - - -
-## >>>>>>>>> WORK IN PROGRESS.. <<<<<<<<<
-## >>>>> FINAL VERSION COMMING SOON <<<<<
-- - -
 
 > Natours project link:
 
