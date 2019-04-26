@@ -40,4 +40,40 @@ width="60%">
 <img alt="screenshot of the project tours section" src="https://github.com/AndriiChemerys/natours_project/blob/master/img/img_final_scrn/img-4.jpg" 
 width="60%">
 
+**6.** Building the Story Section. :heavy_check_mark:  
+
+> Story Section screenshot
+
+<img alt="screenshot of the project story section" src="https://github.com/AndriiChemerys/natours_project/blob/master/img/img_final_scrn/img-5-story.jpg" 
+width="60%">
+
+**7.** Building the Navigation Menu Section. :heavy_check_mark:  
+
+> Navigation Menu screenshot
+
+<img alt="screenshot of the project nav-menu section" src="https://github.com/AndriiChemerys/natours_project/blob/master/img/img_final_scrn/img-6-nav-menu.jpg" 
+width="60%">
+
+**8.** Building the Pop-Up Section. :heavy_check_mark:  
+
+> Pop-Up Section screenshot
+
+<img alt="screenshot of the project pop-up section" src="https://github.com/AndriiChemerys/natours_project/blob/master/img/img_final_scrn/img-7-pop-up.jpg" 
+width="60%">
+
+**9.** Building a Booking form. :heavy_check_mark:  
+
+> Booking form screenshot
+
+<img alt="screenshot of the project booking form" src="https://github.com/AndriiChemerys/natours_project/blob/master/img/img_final_scrn/img-8-booking-form.jpg" 
+width="60%">
+
+**10.** Building the Footer Section. :heavy_check_mark:  
+
+> Footer Section screenshot
+
+<img alt="screenshot of the project footer section" src="https://github.com/AndriiChemerys/natours_project/blob/master/img/img_final_scrn/img-9-footer.jpg" 
+width="60%">
+
+
 
